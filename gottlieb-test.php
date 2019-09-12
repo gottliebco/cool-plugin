@@ -16,7 +16,7 @@
  * Plugin Name:       Gottlieb Test
  * Plugin URI:        https://www.gottlieb-co.dk
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           2.0.1
+ * Version:           2.0.2
  * Author:            Helgi Petersen
  * Author URI:        https://www.gottlieb-co.dk
  * License:           GPL-2.0+
