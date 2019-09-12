@@ -1,0 +1,2 @@
+# cool-plugin
+cool-plugin
